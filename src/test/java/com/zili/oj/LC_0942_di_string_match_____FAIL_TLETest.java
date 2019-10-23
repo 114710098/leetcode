@@ -10,7 +10,7 @@ public class LC_0942_di_string_match_____FAIL_TLETest {
 
     @Test
     public void diStringMatch() {
-        LC_0942_di_string_match____FAIL_TLE o = new LC_0942_di_string_match____FAIL_TLE();
+        LC_0942_di_string_match_20191018122115_TLE o = new LC_0942_di_string_match_20191018122115_TLE();
 
         String s;
 
